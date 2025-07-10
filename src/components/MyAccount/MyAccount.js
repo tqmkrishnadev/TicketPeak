@@ -7,7 +7,7 @@ import Spinner from 'react-native-loading-spinner-overlay';
 import FooterMenu from '../../config/FooterMenu';
 import HeaderApp from '../../config/HeaderApp';
 import {Toast } from 'native-base';
-import AsyncStorage from '@react-native-community/async-storage';
+import AsyncStorage from '@react-native-async-storage/async-storage';
 import { Container,Content,Card,CardItem,Header} from 'native-base';
 import { SafeAreaView } from 'react-native-safe-area-context';
 var deviceWidth = Dimensions.get('window').width;

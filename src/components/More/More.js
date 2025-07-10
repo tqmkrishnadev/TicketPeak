@@ -18,7 +18,7 @@ import FooterMenu from '../../config/FooterMenu';
 import HeaderApp from '../../config/HeaderApp';
 import {Container, Content, Card, CardItem} from 'native-base';
 import Dialog, {DialogContent} from 'react-native-popup-dialog';
-import AsyncStorage from '@react-native-community/async-storage';
+import AsyncStorage from '@react-native-async-storage/async-storage';
 import {SafeAreaView} from 'react-native-safe-area-context';
 var deviceWidth = Dimensions.get('window').width;
 var deviceHeight = Dimensions.get('window').height;

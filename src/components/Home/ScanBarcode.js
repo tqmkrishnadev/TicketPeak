@@ -6,7 +6,7 @@ import ApiConstants from '../../config/ApiConstants';
 import Spinner from 'react-native-loading-spinner-overlay';
 import FooterMenu from '../../config/FooterMenu';
 import HeaderApp from '../../config/HeaderApp';
-import AsyncStorage from '@react-native-community/async-storage';
+import AsyncStorage from '@react-native-async-storage/async-storage';
 import { Container,Content,Card,CardItem} from 'native-base';
 import QRCodeScanner from 'react-native-qrcode-scanner';
 import { RNCamera } from 'react-native-camera';

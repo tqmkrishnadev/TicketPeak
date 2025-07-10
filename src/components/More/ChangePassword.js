@@ -1,7 +1,7 @@
 // login screen 
 import React, { Component } from 'react';
 import { StyleSheet, Image, View, Text,TextInput,Dimensions,TouchableOpacity,Platform} from 'react-native';
-import AsyncStorage from '@react-native-community/async-storage';
+import AsyncStorage from '@react-native-async-storage/async-storage';
 import CONSTANTS from '../../config/Constants';
 import ApiConstants from '../../config/ApiConstants';
 import Spinner from 'react-native-loading-spinner-overlay';

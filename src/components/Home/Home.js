@@ -8,7 +8,7 @@ import FooterMenu from '../../config/FooterMenu';
 import HeaderApp from '../../config/HeaderApp';
 import { Button } from 'react-native-elements'
 import {Toast } from 'native-base';
-import AsyncStorage from '@react-native-community/async-storage';
+import AsyncStorage from '@react-native-async-storage/async-storage';
 import { Container,Content,Card,CardItem} from 'native-base';
 import Dialog, { DialogContent } from 'react-native-popup-dialog';
 import eventdata from './eventlist.json';
