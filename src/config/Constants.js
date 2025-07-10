@@ -1,0 +1,48 @@
+const constants = {
+    LOGIN               :   'Login',
+    PLEASE_SIGNIN       :   'Please sign in to continue',
+
+    PLEASE_ENTERALL     :   'Please enter all fields',
+    ENTER_VALIDEMAIL    :   'Please enter valid Email',
+    ENTER_VALIDPWD      :   'Please enter valid Password',
+    PLEASE_ENTEREMAIL   :   'Please enter Email',
+
+    USERNAME_OREMAIL    :   'Email or Username',
+    PASSWORD            :   'Password',
+    CURRENT_PASSWORD    :   'Current Password',
+    NEW_PASSWORD        :   'New Password',
+    CONFIRM_PASSWORD    :   'Confirm Password',
+    DONT_HAVEACC        :   'Don\'t have an account yet?  ',
+    SIGNUP              :   'Sign up',
+    FORGOTPWD           :   'Forgot Password?',
+
+    FORGOTPWDNEW        :   'Forgot Password',
+    EMAIL               :   'Email',
+    USERNAME            :   'User Name',
+    CONFIRM_PWD         :   'Confirm Password',
+    NO_INTERNET         :   'No internet connection available',
+    EMAIL_REGEX         :   /^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/,
+    ERROR_COLOR         :   '#F30A0A',
+    PLSENTER_EMAIL      :   'Email Address',
+    PLSENTER_USERNAME   :   'Username',
+    PLSENTER_PASSWORD   :   'Password',
+    INVALID_EMAIL       :   'Please enter valid email (Ex. abc@test.com).',
+    PASSWORD_ERROR      :   'Please enter password.',
+    PLSREENTER_PWD      :   'Please re-enter password',
+    PWD_NOTMATCH        :   "Password didn't match",
+    FIELD_BLANK         :   "Field is Empty",
+    WENT_WRONG          :   "Something went wrong Please try again",
+    NO_INTERNET         :   'No internet connection available',
+    HOME                :   'Home',
+    MYACCOUNT           :   'My Account',
+    MORE                :   'More',
+
+    PLSENTERCURRENT_PWD:'Please enter current password',
+    CURRNOTMATCH_PWD:'Current password doesn\'t match.',
+    PLSENTER_PWD:'Please enter new password',
+    MIN3DIGIT_PWD:'Password should be minimum 8 characters',
+    PLSREENTER_PWD:'Please re-enter your password',
+    PWD_NOTMATCH:'Passwords do not match',
+  };
+
+export default constants;

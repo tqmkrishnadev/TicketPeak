@@ -1,0 +1,51 @@
+
+{
+	"status": "success",
+	"code": 200,
+	"data":[{
+		"id": 1,
+		"event_name": "Festival party",
+		"last_discussed": "Sat, Aug 5, 2021"
+	},{
+		"id": 2,
+		"event_name": "Bday party",
+		"last_discussed": "Sat, Aug 5, 2021"
+	},{
+		"id": 3,
+		"event_name": "Ring Ceremony",
+		"last_discussed": "Sat, Aug 5, 2021"
+	},{
+		"id": 4,
+		"event_name": "Party 4",
+		"attorney_name": "Victor Svetnich",
+		"last_discussed": "Sat, Aug 5, 2021"
+	},{
+		"id": 5,
+		"event_name": "Party 5",
+		"last_discussed": "Sat, Aug 5, 2021"
+	},{
+		"id": 6,
+		"event_name": "Party 6",
+		"last_discussed": "Sat, Aug 5, 2021"
+	},{
+		"id": 7,
+		"event_name": "Party 7",
+		"last_discussed": "Sat, Aug 5, 2021"
+	},{
+		"id": 8,
+		"event_name": "Party 8",
+		"last_discussed": "Sat, Aug 5, 2021"
+	},{
+		"id": 9,
+		"event_name": "Party 9",
+		"last_discussed": "Sat, Aug 5, 2021"
+	},{
+		"id": 7,
+		"event_name": "Party 7",
+		"last_discussed": "Sat, Aug 5, 2021"
+	},{
+		"id": 8,
+		"event_name": "Party 8",
+		"last_discussed": "Sat, Aug 5, 2021"
+	}]
+}
