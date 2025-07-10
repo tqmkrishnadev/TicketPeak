@@ -21,7 +21,7 @@
     "expo-status-bar": "~2.2.3",
     "gluestack-ui": "^0.7.22",
     "native-base": "^3.4.28",
-    "react": "19.1.0",
+    "react": "18.2.0",
     "react-native": "0.79.5",
     "react-native-camera": "^4.2.1",
     "react-native-elements": "^3.4.3",
